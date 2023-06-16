@@ -2,7 +2,7 @@
 ### I'm an Undergraduate Student! 
 - 🌱 Programmers never quit; they just debug the issues
 - 🥅 2023 Goals: Seeking an IT Internship to Unlock my Potential
-- ⚡ Fun fact: I love to code and listening music
+- ⚡ Fun fact: computer was a job title,and the first programmers were womens
 
 ### Connect with me:
 
